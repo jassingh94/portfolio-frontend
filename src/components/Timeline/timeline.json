@@ -1,0 +1,47 @@
+[
+    {
+      "company": "CyberQP",
+      "location": "Burnaby, BC, Canada - Remote",
+      "role": "Senior Software Engineer",
+      "duration": "Sept 2024 - Present",
+      "highlights": [
+        "Designed and implemented an SSO exemption flow for tenant-level SSO enforcement and exemptions.",
+        "Integrated DUO Push authentication for secure identity verification.",
+        "Developed automated reseller onboarding system via Pax8 Marketplace.",
+        "Built and published Tech Vault Chrome Extension with React UI inside Shadow DOM, OAuth login, JIT account creation, and credential storage.",
+        "Designed and implemented full billing & usage infrastructure with tier-based pricing, historical insights, and trend visualizations.",
+        "Enhanced and maintained legacy systems across Node.js, React.js, and Ruby."
+      ],
+      "tech": ["Node.js", "NestJS", "React.js", "TypeScript","Javascript", "MongoDB", "Ruby", "Postgres", "Redis", "Google Cloud", "Jest", "Mocha", "Python" ]
+    },
+    {
+      "company": "Birdeye",
+      "location": "Remote",
+      "role": "Lead Software Engineer",
+      "duration": "Oct 2021 - Sept 2024",
+      "highlights": [
+        "Developed multiple services in microservice architecture using Kafka, MongoDB, AWS, and GCP.",
+        "Built IaC solutions with CloudFormation & Terraform, and CI/CD pipelines for seamless deployments.",
+        "Integrated APIs with Google Maps, Apple Maps, Instagram, Twitter, and other third-party services.",
+        "Implemented Radius Scan tool to visualize competitor performance on maps (React, Node.js, Kafka, Redis, MongoDB).",
+        "Optimized costs with SPOT servers & Lambda functions on AWS.",
+        "Developed real-time reporting & alerting system via RingCentral groups with configurable MongoDB-driven reports."
+      ],
+      "tech": ["Node.js", "React.js", "TypeScript", "JavaScript", "Kafka", "Redis", "MongoDB", "AWS", "Google Cloud", "CloudFormation", "Terraform", "MySQL"]
+    },
+    {
+      "company": "Indus Valley Partners",
+      "location": "Gurgaon, India",
+      "role": "Software Engineer",
+      "duration": "Jan 2019 - Oct 2021",
+      "highlights": [
+        "Created Pub/Sub Service in Node.js with Bull, RabbitMQ, and Redis for ETL workflows including Salesforce & Bloomberg integrations.",
+        "Developed Financial Statements Module for parsing, validating, and generating styled Excel sheets with custom validations.",
+        "Built an Abstract Document Manager to integrate with File System, S3, Mayan, SharePoint, etc.",
+        "Developed onboarding utility reducing client onboarding effort by up to 50% (JavaScript, Java, Python).",
+        "Managed Calculation Module with JSON-configured inputs processed and persisted via Mustache templates."
+      ],
+      "tech": ["Node.js", "Bull", "RabbitMQ", "Redis", "Salesforce", "Bloomberg", "JavaScript", "Java", "Python", "Excel", "Mustache", "S3", "SharePoint"]
+    }
+  ]
+  
